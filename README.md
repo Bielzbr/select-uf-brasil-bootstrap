@@ -1,4 +1,4 @@
-# select-uf-brasil-bootstrap
+# Select dos estados brasileiros
 Select com os estados brasileiros formatado para o Bootstrap 4
 
 - Basta inserir no seu formulário
