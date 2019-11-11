@@ -2,7 +2,7 @@
 Select com os estados brasileiros formatado para o Bootstrap 4
 
 - Basta inserir no seu formulário
-  
+  ```
   <select id="" name="uf">
       <option value="AC">Acre</option>
       <option value="AL">Alagoas</option>
@@ -32,3 +32,4 @@ Select com os estados brasileiros formatado para o Bootstrap 4
       <option value="SE">Sergipe</option>
       <option value="TO">Tocantins</option>
   </select>
+```
